@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### "Programo no meu tempo livre e quero começar a mostrar mais dos meus projetos que ainda estão em processo."
  
 <div> 
   <a href="https://www.instagram.com/thiago_bonfim359_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
