@@ -1,22 +1,30 @@
-## Bem-vindo(a) ao perfil do Thiagocastilho66 😁
+### Olá! Seja bem-vindo(vinda) ao meu perfil. 🚀
 
- <div>
-   <a href="https://github.com/ThiagoCastilho66">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCastilho66&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCastilho66&layout=compact&langs_count=6&theme=tokyonight"/>
+<div>
+  <a href="https://github.com/ThiagoCastilho66">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCastilho66&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCastilho66&layout=compact&langs_count=6&theme=tokyonight" />
+  </a>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)">
-  <img align="center" alt="CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)">
+
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- 
+
 <br>
- 
-### "Programo no meu tempo livre e quero começar a mostrar mais dos meus projetos que ainda estão em processo."
- 
-<div> 
-  <a href="https://www.instagram.com/thiago_bonfim359_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-bonfim-5b6507253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
+
+> "Programo no meu tempo livre e quero começar a mostrar mais dos meus projetos que ainda estão em processo."
+
+<br>
+
+<div>
+  <a href="https://www.instagram.com/thiago_bonfim359_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-bonfim-5b6507253/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
